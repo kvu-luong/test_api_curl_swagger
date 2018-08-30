@@ -1,0 +1,42 @@
+/*style-recomment*/
+.box-rcm #rcm-hireme {
+    transition: all 0.6s ease-in-out;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+    height: 0;
+}
+
+.box-rcm div.rcm-jobs-multi.x-rcm {
+    padding: 0
+}
+
+.box-rcm div.rcm-jobs-multi.tagged {
+    line-height: 140%;
+}
+
+.box-rcm div.rcm-jobs-multi.j-orange {
+    background-position: center 3px;
+}
+
+.box-rcm div.rcm-jobs-multi.blue,
+div.rcm-jobs-multi.j-orange {
+    background-image: none !important;
+}
+
+.box-rcm div.rcm-jobs-multi {
+    color: #333;
+    font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    line-height: 130%;
+    padding: 2px;
+    margin: 12px 0 1.5em;
+    clear: both;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    box-sizing: border-box;
+}
+
+.box-rcm div.rcm-jobs-multi.x-rcm.j-orange>a.header-top {
+    background-color: #d94127;
+    background-image: linear-gradient(to right, rgba(214, 67, 48, .9) 0, rgba(255, 200, 200, .9) 100%), url(https: //topdev.vn/assets/img/logo_white.png); background-position-x: center; background-size: auto 100%;}.box-rcm div.rcm-jobs-multi.x-rcm>a.header-top {line-height: 50px;height: 50px;position: relative;background-repeat: no-repeat;}.box-rcm div.rcm-jobs-multi>a.header-top {width: 100%;display: block;color: #efefef;text-align: left; padding-left: 15px; font-size: 20px;line-height: 42px;text-decoration: none;}.box-rcm div.rcm-jobs-multi.x-rcm>.ljobs-rcm {padding: 12px;border: 1px solid #e4e6e8;border-top: none; border-bottom: 2px solid #d94127}.box-rcm div.rcm-jobs-multi>.ljobs-rcm {background: #fff;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul {margin: 0;padding: 0;list-style: none;display: block;}.box-rcm div.rcm-jobs-multi.x-rcm>.ljobs-rcm>ul li {border-top-color: #eff0f1;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul>li:first-child {border-top: none;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul>li {border-top: 1px solid #d6d9dc;position: relative; list-style: none;}.box-rcm div.rcm-jobs-multi.x-rcm>.ljobs-rcm>ul .job-wrap {padding-left: 0;padding-right: 0;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap:first-child {border-top: none;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap {overflow: hidden;margin: 0;padding: 5px 12px;position: relative;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap a.job {display: block;cursor: pointer;text-decoration: none; float: left; width: 84%; }.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .title {font-weight: 700;font-size: 13px;display: block;cursor: pointer;text-decoration: none;color: #be5656;padding-right: 12px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap div {margin: 3px 0; line-height: 26px;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .company {font-weight: 700;color: #505050;margin-right: 7px; font-size: 12px;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .location, .j-salary {color: #505050;font-style: italic; font-size:12px; display: inline-block; margin-right: 7px;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .location svg, .j-salary svg {height: 12px;width: 12px;position: relative;top: 1px;fill: #b5b7b8;display: inline-block;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .location>span, .j-salary>span {display: inline-block;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .post-tag {text-align: center;color: #000;background-color: #f5f5f5;padding: .25em .5em;margin: 0 2px 2px 0!important;text-decoration: none;font-size: 12px;line-height: 1.4;white-space: nowrap;display: inline-block;border-radius: 0;border: 1px solid #ddd;float: none;font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .thumbnail{float: left; width: 15%; margin-right: 1%; overflow: hidden; display: flex; align-items: center; justify-content: center;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .thumbnail .item-logo{width:60% !important; height: auto !important; border:none; margin: 0 auto; padding: 10% 2%;}@media screen and (min-width: 320px) and (max-width: 800px) {.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul li{margin-left:0px;}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap .thumbnail{display: none}.box-rcm div.rcm-jobs-multi>.ljobs-rcm>ul .job-wrap a.job {width: 100%;}}
